@@ -1,0 +1,6 @@
+Flask
+Flask-SocketIO
+redis
+psycopg2-binary
+gunicorn  # If deploying using Gunicorn
+eventlet  # Recommended for WebSocket support with Flask-SocketIO
