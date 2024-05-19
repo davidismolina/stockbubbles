@@ -1,7 +1,7 @@
 # StockBubbles
 
 ## Introduction
-This project is a comprehensive application for visualizing stock market data. It uses a stack that includes React, Flask, Node.js, WebSocket, Redis, and PostgreSQL to deliver real-time data updates and interactive visualizations.
+This project is a comprehensive application for visualizing stock market data. It uses a stack that includes React, Flask, Node.js, WebSocket, Redis, and PostgreSQL to deliver real-time data updates and interactive visualizations. Initial project idea began with Sultan.
 
 ## Getting Started
 
@@ -77,5 +77,6 @@ We welcome contributions. If you have suggestions or improvements, please fork t
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
+Sultan Jacobs - sultan@stockbubbles.org
 David Molina - david@stockbubbles.org
 Project Link: https://github.com/davidismolina/stockbubbles.git
